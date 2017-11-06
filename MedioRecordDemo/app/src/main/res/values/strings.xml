@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">录音和播放</string>
+    <string name="music_list">音乐列表</string>
+    <string name="scan">扫描</string>
+    <string name="scanning">正在扫描</string>
+
+    <string name="image_desc">图片描述</string>
+    <string name="save">保存</string>
+    <string name="playback">回放</string>
+</resources>
